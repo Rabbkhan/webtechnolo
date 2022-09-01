@@ -90,10 +90,10 @@ header .navbar a:hover{
 }
 
 .home{
-  background-color: #F95F1D;
+  
   display: flex;
   align-items: center;
-  background:url(../images/);
+  background:url(../images/home.jpg);
   background-size: cover;
   background-position: center;
   flex-wrap: wrap;
