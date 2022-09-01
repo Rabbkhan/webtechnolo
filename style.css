@@ -92,8 +92,8 @@ header .navbar a:hover{
 .home{
   
   display: flex;
-  align-items: center;
-  background:url(../images/home.jpg);
+  align-items: right;
+  background:url(../images/live-class-banner-web.png);
   background-size: cover;
   background-position: center;
   flex-wrap: wrap;
@@ -110,13 +110,13 @@ header .navbar a:hover{
 }
 
 .home .content h3{
-  color:#fff;
+  color:#192a56;
   font-size: 5.5rem;
   text-transform: uppercase;
 }
 
 .home .content p{
-  color:#fff;
+  color:black;
   font-size: 1.7rem;
 }
 
@@ -130,7 +130,7 @@ header .navbar a:hover{
 }
 
 .home .content .btn:hover{
-  color:#fff;
+  color:blue;
   background:none;
   border-color: #fff;
 }
