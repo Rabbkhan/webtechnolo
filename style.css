@@ -3,7 +3,7 @@
 :root{
   --black:#192a56;
   --orange:#F95F1D;
-  --yellow:#ffa801;
+  --yellow:#192a56;
 }
 
 *{
@@ -288,7 +288,7 @@ header .navbar a:hover{
 }
 
 .team .heading{
-  color:#000;
+  color:#fff;
 }
 
 .team .box-container{
