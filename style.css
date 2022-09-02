@@ -92,7 +92,7 @@ header .navbar a:hover{
 .home{
   
   display: flex;
-  align-items: right;
+  align-items: center;
   background:url(../images/live-class-banner-web.png);
   background-size: cover;
   background-position: center;
