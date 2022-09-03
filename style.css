@@ -2,8 +2,8 @@
 
 :root{
   --black:#192a56;
-  --orange:#F95F1D;
-  --yellow:#ffa801;
+  --orange:#4a8db7;
+  --yellow:#192a56;
 }
 
 *{
@@ -90,9 +90,10 @@ header .navbar a:hover{
 }
 
 .home{
+  
   display: flex;
   align-items: center;
-  background:url(../images/home-bg.jpg) no-repeat;
+  background:url(../images/live-class-banner-web.png);
   background-size: cover;
   background-position: center;
   flex-wrap: wrap;
@@ -109,13 +110,13 @@ header .navbar a:hover{
 }
 
 .home .content h3{
-  color:#fff;
+  color:#192a56;
   font-size: 5.5rem;
   text-transform: uppercase;
 }
 
 .home .content p{
-  color:#fff;
+  color:black;
   font-size: 1.7rem;
 }
 
@@ -129,7 +130,7 @@ header .navbar a:hover{
 }
 
 .home .content .btn:hover{
-  color:#fff;
+  color:blue;
   background:none;
   border-color: #fff;
 }
@@ -287,7 +288,7 @@ header .navbar a:hover{
 }
 
 .team .heading{
-  color:#000;
+  color:#fff;
 }
 
 .team .box-container{
